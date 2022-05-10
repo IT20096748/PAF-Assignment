@@ -8,4 +8,4 @@
 
 
 #### Brief Description of Project -
-This is develop a rich web based application for online platform(ElectroGrid)
+This is to develop a rich web based application for online platform(ElectroGrid)
