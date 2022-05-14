@@ -9,3 +9,4 @@
 
 #### Brief Description of Project -
 This is to develop a rich web based application for online platform(ElectroGrid)
+<Images/Consumer.png width="500" height="500">
